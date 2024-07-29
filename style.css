@@ -1,4 +1,5 @@
-:root {
+:root { @import url("styles/header.css");
+
     --cor-de-fundo: #EBECEE;
 }
 
